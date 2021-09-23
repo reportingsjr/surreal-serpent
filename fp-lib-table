@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "surreal-serpent")(type "KiCad")(uri "${KIPRJMOD}/surreal-serpent.pretty")(options "")(descr ""))
+)
